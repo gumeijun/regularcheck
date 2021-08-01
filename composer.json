@@ -1,0 +1,17 @@
+{
+    "name": "gumeijun/regularcheck",
+    "description": "这是一个正则表达式集合",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gumeijun",
+            "email": "751415315@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RegularCheck\\": "src/"
+        }
+    }
+}
