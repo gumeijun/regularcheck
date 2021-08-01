@@ -14,6 +14,6 @@ class RegularCheck{
         return false;
     }
     public static function IDcardCheck($idcard){
-        
+
     }
 }
