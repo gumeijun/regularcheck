@@ -8,7 +8,9 @@
             "email": "751415315@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php":">=5.3"
+    },
     "autoload": {
         "psr-4": {
             "RegularCheck\\": "src/"
